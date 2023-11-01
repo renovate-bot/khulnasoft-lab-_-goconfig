@@ -1,9 +1,9 @@
-module github.com/khulnasoft-labs/goconfig
+module github.com/khulnasoft-lab/goconfig
 
 go 1.20
 
 require (
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/stretchr/testify v1.8.4
 	gopkg.in/ini.v1 v1.67.0
 )

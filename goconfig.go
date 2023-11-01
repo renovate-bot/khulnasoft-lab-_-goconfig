@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	reflectutil "github.com/khulnasoft-labs/utils/reflect"
+	reflectutil "github.com/khulnasoft-lab/utils/reflect"
 	ini "gopkg.in/ini.v1"
 )
 
